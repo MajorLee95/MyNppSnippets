@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+    <snippet group="Text" trigger="doxy_class_bk" id="" complement="" removed="false" modified="false">/**
+* @class ClasseName _classHeader.h
+* @brief
+*/</snippet>
+    <snippet group="Text" trigger="doxy_fileHeader_bk" id="" complement="" removed="false" modified="false">/**
+ @file _fileName_cpp_or_h
+ @author J.SORANZO
+ @date _date
+ @copyright 2019 CC0
+ @version git versionning
+ @brief _briefText
+*/</snippet>
+    <snippet group="Text" trigger="doxy_function_bk" id="" complement="" removed="false" modified="false">/** 
+ @fn _completeFunctionPrototype
+ @brief _abriefDescription
+ @param _parameters
+ @return
+
+_detailDescription
+*/</snippet>
+</snippets>
